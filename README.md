@@ -16,7 +16,7 @@
 <br>
 
 - :computer: I’m working as a freelancer!
-- :memo: I’m currently learning React, Typescript & Node!
+- :memo: I’m currently studying React, Typescript & Node!
 - :email: How to reach me: devmiqueias@gmail.com!
 
 <div><br>
