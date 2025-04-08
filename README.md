@@ -17,7 +17,6 @@
 
 - :computer: I’m working as a freelancer!
 - :memo: I’m currently studying React & Node!
-- :email: How to reach me: devmiqueias@gmail.com!
 
 <div><br>
   <a href="https://github.com/devmiqueias">
